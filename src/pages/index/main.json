@@ -1,6 +1,8 @@
 {
     "navigationBarTitleText": "招商",
     "usingComponents": {
-        "van-button": "../../static/vant/weapp/button/index"
+        "van-field": "../../static/vant/field/index",
+        "van-button": "../../static/vant/button/index",
+        "van-search": "../../static/vant/search/index"
     }
 }
